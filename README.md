@@ -1,4 +1,4 @@
-# Bikeshare-project
+# Bikeshare Project using python
 
 Bikeshare project using python- analyze bike share system ridership data from three cities. Using data interact with the user to find out how they want to filter the data, and output some descriptive statistics summarizing the filtered data.
 
